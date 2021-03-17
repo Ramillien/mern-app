@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "ramil mern",
+  "mongoUri": "mongodb+srv://Ramil:-5fTA@bMD2jX2E5@cluster0.5j1e7.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
